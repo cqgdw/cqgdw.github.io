@@ -2817,7 +2817,7 @@
 						font-weight: normal;
 						-webkit-font-smoothing: antialiased;
 						-moz-osx-font-smoothing: grayscale;
-						content: '\f0c9';
+						content: '菜单';
 						color: #fff;
 						color: rgba(255, 255, 255, 0.75);
 						text-align: center;
@@ -2829,7 +2829,7 @@
 						position: absolute;
 						left: 50%;
 						margin-left: -40px;
-						background: rgba(132, 128, 136, 0.75);
+						background: rgba(45, 58, 238, 0.75);
 						border-top: 0;
 						border-radius: 0 0 0.35em 0.35em;
 					}
